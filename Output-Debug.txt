@@ -1,0 +1,92 @@
+﻿'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Users\CasapDumitru\Desktop\OpenGL_4_Application_VS2015\Release\OpenGL_4_Application_VS2015.exe'. Symbols loaded.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\kernel32.dll'
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\user32.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\win32u.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\opengl32.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\gdi32.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\gdi32full.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\advapi32.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\shell32.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cfgmgr32.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\windows.storage.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\combase.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbase.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\powrprof.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ddraw.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\glu32.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\shlwapi.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\dciman32.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\SHCore.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\profapi.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\imm32.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\uxtheme.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\winmm.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\winmmbase.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\winmmbase.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\winmmbase.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\winmmbase.dll'
+'OpenGL_4_Application_VS2015.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\winmmbase.dll'
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\dinput8.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\XInput1_4.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\devobj.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\dwmapi.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\hid.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\setupapi.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\wintrust.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msasn1.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\crypt32.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntmarta.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msctf.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\oleaut32.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp_win.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\nvinit.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\version.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\version.dll'
+'OpenGL_4_Application_VS2015.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\nvinit.dll'
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\nvoglv32.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\wtsapi32.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\version.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\winsta.dll'. Cannot find or open the PDB file.
+The thread 0x1ff4 has exited with code 0 (0x0).
+The thread 0x31b4 has exited with code 0 (0x0).
+The thread 0x2f90 has exited with code 0 (0x0).
+The thread 0x2ce8 has exited with code 0 (0x0).
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\dxgi.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\d3d11.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ResourcePolicyClient.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\ResourcePolicyClient.dll'
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\nvwgf2um.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcrypt.dll'. Cannot find or open the PDB file.
+The thread 0x3114 has exited with code 0 (0x0).
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ole32.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Loaded 'C:\Windows\SysWOW64\clbcatq.dll'. Cannot find or open the PDB file.
+'OpenGL_4_Application_VS2015.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\XInput1_4.dll'
+'OpenGL_4_Application_VS2015.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\hid.dll'
+'OpenGL_4_Application_VS2015.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\dinput8.dll'
+'OpenGL_4_Application_VS2015.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\winmmbase.dll'
+'OpenGL_4_Application_VS2015.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\winmm.dll'
+The thread 0x2cb0 has exited with code 0 (0x0).
+The thread 0x3360 has exited with code 0 (0x0).
+The thread 0x3bc has exited with code 0 (0x0).
+The thread 0xd3c has exited with code 0 (0x0).
+The thread 0x1a28 has exited with code 0 (0x0).
+The thread 0x2d9c has exited with code 0 (0x0).
+The thread 0x2b1c has exited with code 0 (0x0).
+The thread 0x21e8 has exited with code 0 (0x0).
+The thread 0x21f0 has exited with code 0 (0x0).
+The thread 0x2ef4 has exited with code 0 (0x0).
+The thread 0xb30 has exited with code 0 (0x0).
+The program '[9012] OpenGL_4_Application_VS2015.exe' has exited with code 0 (0x0).

@@ -1,0 +1,76 @@
+﻿  stdafx.cpp
+  Camera.cpp
+  Mesh.cpp
+  Model3D.cpp
+Model3D.cpp(34): warning C4018: '<': signed/unsigned mismatch
+Model3D.cpp(79): warning C4018: '<': signed/unsigned mismatch
+Model3D.cpp(169): warning C4018: '<': signed/unsigned mismatch
+  OpenGL_4_Application_VS2015.cpp
+OpenGL_4_Application_VS2015.cpp(163): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+OpenGL_4_Application_VS2015.cpp(164): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+OpenGL_4_Application_VS2015.cpp(229): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+OpenGL_4_Application_VS2015.cpp(230): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+OpenGL_4_Application_VS2015.cpp(240): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+OpenGL_4_Application_VS2015.cpp(241): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+OpenGL_4_Application_VS2015.cpp(248): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+OpenGL_4_Application_VS2015.cpp(249): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+OpenGL_4_Application_VS2015.cpp(259): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+OpenGL_4_Application_VS2015.cpp(260): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+OpenGL_4_Application_VS2015.cpp(274): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+OpenGL_4_Application_VS2015.cpp(275): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+OpenGL_4_Application_VS2015.cpp(278): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+OpenGL_4_Application_VS2015.cpp(279): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+OpenGL_4_Application_VS2015.cpp(285): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+OpenGL_4_Application_VS2015.cpp(286): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+OpenGL_4_Application_VS2015.cpp(289): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+OpenGL_4_Application_VS2015.cpp(290): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+OpenGL_4_Application_VS2015.cpp(314): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+OpenGL_4_Application_VS2015.cpp(315): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+OpenGL_4_Application_VS2015.cpp(325): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+OpenGL_4_Application_VS2015.cpp(326): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+OpenGL_4_Application_VS2015.cpp(333): warning C4305: '+=': truncation from 'double' to 'float'
+OpenGL_4_Application_VS2015.cpp(336): warning C4305: '+=': truncation from 'double' to 'float'
+OpenGL_4_Application_VS2015.cpp(343): warning C4305: '-=': truncation from 'double' to 'float'
+OpenGL_4_Application_VS2015.cpp(346): warning C4305: '-=': truncation from 'double' to 'float'
+OpenGL_4_Application_VS2015.cpp(406): warning C4305: '+=': truncation from 'double' to 'float'
+OpenGL_4_Application_VS2015.cpp(410): warning C4305: '-=': truncation from 'double' to 'float'
+OpenGL_4_Application_VS2015.cpp(431): warning C4305: '+=': truncation from 'double' to 'float'
+OpenGL_4_Application_VS2015.cpp(434): warning C4305: '-=': truncation from 'double' to 'float'
+OpenGL_4_Application_VS2015.cpp(625): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+OpenGL_4_Application_VS2015.cpp(626): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Shader.cpp
+  SkyBox.cpp
+  stb_image.c
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  2373 of 2379 functions (99.7%) were compiled, the rest were copied from previous compilation.
+    38 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+Mesh.obj : warning LNK4049: locally defined symbol ___glewGenBuffers imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewGenVertexArrays imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewActiveTexture imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewBufferData imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewGetUniformLocation imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewUniform1i imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewBindBuffer imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewVertexAttribPointer imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewBindVertexArray imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewEnableVertexAttribArray imported
+Model3D.obj : warning LNK4049: locally defined symbol ___glewGenerateMipmap imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewLinkProgram imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewDeleteShader imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewGetProgramInfoLog imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewShaderSource imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewAttachShader imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewGetProgramiv imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewGetShaderInfoLog imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewCreateProgram imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewCreateShader imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewCompileShader imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewGetShaderiv imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewUseProgram imported
+SkyBox.obj : warning LNK4049: locally defined symbol ___glewUniformMatrix4fv imported
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'F:\University\UTCluj\Anul3\Semestrul1\SPG\ProiectFinal\Release\vc120.pdb'; linking object as if no debug info
+  OpenGL_4_Application_VS2015.vcxproj -> F:\University\UTCluj\Anul3\Semestrul1\SPG\ProiectFinal\Release\OpenGL_4_Application_VS2015.exe
+  OpenGL_4_Application_VS2015.vcxproj -> F:\University\UTCluj\Anul3\Semestrul1\SPG\ProiectFinal\Release\OpenGL_4_Application_VS2015.pdb (Full PDB)
